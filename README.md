@@ -18,6 +18,7 @@ application should go the AI model and give a output on the
 application.)
 
 Question 2
+
 Create a simple “side-scrolling” 2D game using Pygame. The game should
 allow the player to control a character with the ability to run, jump, shoot 
 projectiles. The game should have enemies, collectibles, and 3 levels. It should 
