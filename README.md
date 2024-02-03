@@ -32,3 +32,13 @@ The game should include the following, but not limited to:
 • A Scoring system based on enemies defeated, and collectibles 
 collected, health bar for players, and enemies.
 • Implement a game over screen with the option to restart.
+
+Bonus:
+
+Create a dynamic camera that follows the players smoothly.
+You have three game ideas, select one and implement the above 
+requirements.
+• A game with human-like characters (hero, enemy) 
+• A game with an animal (Hero) and human characters (Enemy).
+• A tank-based game navigating through a battlefield to engage with 
+enemy tanks or something.
